@@ -24,4 +24,4 @@ IP 142.250.189.164 sent a total of 12734 bytes.
 
 
 ### Limitations
-Only works on UNIX. Windows support will require using `GetProcAddress` ((docs)[https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress?redirectedfrom=MSDN])).
+Only works on UNIX. Windows support will require using `GetProcAddress` ([docs](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress?redirectedfrom=MSDN)).
